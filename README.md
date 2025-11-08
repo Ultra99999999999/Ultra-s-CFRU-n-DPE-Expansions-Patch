@@ -21,13 +21,10 @@ Fairy and Stellar Types
 
 ## Useful Links:
 
-### [Hex Maniac Advance(HMA)]
-(https://github.com/haven1433/HexManiacAdvance)
+### [Hex Maniac Advance(HMA)](https://github.com/haven1433/HexManiacAdvance)
 
-### [DPE Expansion]
-(https://github.com/Shiny-Miner/Dynamic-Pokemon-Expansion-Gen-9)
-### [CFRU Expansion]
-(https://github.com/Shiny-Miner/CFRU-expansion)
+### [DPE Expansion](https://github.com/Shiny-Miner/Dynamic-Pokemon-Expansion-Gen-9)
+### [CFRU Expansion](https://github.com/Shiny-Miner/CFRU-expansion)
 
 # Credits:
 
