@@ -16,6 +16,8 @@ New Battle Engine, that includes Megas, Dynamaxing, Terastall and others
 
 Fairy and Stellar Types
 
+## Useful Links:
+
 ### Hex Maniac Advance(HMA)
 https://github.com/haven1433/HexManiacAdvance
 
