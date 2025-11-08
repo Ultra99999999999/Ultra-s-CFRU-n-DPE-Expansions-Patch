@@ -8,14 +8,54 @@ https://github.com/Shiny-Miner/CFRU-expansion
 
 # Credits:
 
-## Ultra9
+## Ucdep
 
-## Shiny Miner/Hunter
+Ultra9
 
-## ansh860, (Fixes, Tm case icons, continue screen icons, more)
+## CFRU/DPE Expansions
 
-## Zake, (Battle backgrounds help and Following mon code)
+Shiny Miner/Hunter
 
-## grilokapu (item expansion, gen 9 moves+abilities, nuzlocke fainting, Terastallization, more)
+ansh860, (Fixes, Tm case icons, continue screen icons, more)
 
-## 1RWT16KU1D (Terastallization)
+Zake, (Battle backgrounds help and Following mon code)
+
+grilokapu (item expansion, gen 9 moves+abilities, nuzlocke fainting, Terastallization, more)
+
+1RWT16KU1D (Terastallization)
+
+## Normal CFRU/DPE
+### (forked from the Pokecommunity Post)
+
+Primary Developers:
+Skeli-
+ghoulslash
+
+Code:
+Pret Team - decomps
+DizzyEgg - Emerald Battle Engine Upgrade Source
+FBI - DexNav Source, Saveblock Expansion
+Touched - Mega Evolution
+Navenatox - Dynamic Overworld Palettes
+Zeturic - Various Fixes
+JPAN - Hacked Engine Source Code
+azurile13 - Hidden Abilities
+DoesntKnowHowToPlay - Pokedex Screen Stats, Trainer's with EVs source
+Squeetz - Pokedex Screen Stats, Footstep noises
+Diegoisawesome - Triple Layer Tiles
+Jiangzhengwenjz – Linux compatibility
+
+Graphics:
+Golche - Attack Particles, Battle Backgrounds, Other Graphics
+Lixdel - Attack Animations
+Bela - Poké Balls
+Solo993 - Backsprites
+Criminon - Mega Indicators
+canstockphoto.ca - Battle Backgrounds
+
+Testers:
+Criminon
+Dionen
+Gail
+Recko Juice
+Anyone who played the Unbound Battle Tower Demo in its early stages
