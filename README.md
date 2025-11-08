@@ -1,9 +1,23 @@
 # Ultra-s-CFRU-n-DPE-Expansions-Patch
-A rombase for Pokémon Fire red based on Cfru and Dpe Expansions a fork from Cfru/Dpe made by Shiny Miner and his Team
+A Rom Base for Pokémon Fire Red based on Cfru and Dpe Expansions that is designed to be used with Hex Maniac Advance program.
 
-## DPE Expansion:
+CFRU and DPE are forks from Cfru/Dev Builds
+
+## UCDEP adds:
+
+Pokémon up to Gen 9 Pokemon(LZA Megas are not included, you need to add them yourself)
+
+Moves up to Gen 9
+
+Abilities up to Gen 9
+
+New Battle Engine, that includes Megas, Dynamaxing, Terastall and others
+
+Fairy and Stellar Types
+
+### DPE Expansion:
 https://github.com/Shiny-Miner/Dynamic-Pokemon-Expansion-Gen-9
-## CFRU Expansion:
+### CFRU Expansion:
 https://github.com/Shiny-Miner/CFRU-expansion
 
 # Credits:
@@ -25,7 +39,7 @@ grilokapu (item expansion, gen 9 moves+abilities, nuzlocke fainting, Terastalliz
 1RWT16KU1D (Terastallization)
 
 ## Normal CFRU/DPE
-### (forked from the Pokecommunity Post)
+##### (forked from the Pokecommunity Post)
 
 Primary Developers:
 Skeli-
