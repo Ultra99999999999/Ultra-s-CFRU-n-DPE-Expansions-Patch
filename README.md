@@ -45,7 +45,7 @@ grilokapu (item expansion, gen 9 moves+abilities, nuzlocke fainting, Terastalliz
 1RWT16KU1D (Terastallization)
 
 ## Normal CFRU/DPE
-##### (forked from the Pokecommunity Post)
+> **(forked from the Pokecommunity Post)**
 
 Primary Developers:
 Skeli-
