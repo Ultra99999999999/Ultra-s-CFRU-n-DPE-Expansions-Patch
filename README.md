@@ -1,5 +1,6 @@
 # Ultra-s-CFRU-n-DPE-Expansions-Patch
 A Rom Base for Pokémon Fire Red based on Cfru and Dpe Expansions that is designed to be used with Hex Maniac Advance program.
+Ucdep is easy to patch and start hacking, so what are you waiting?
 
 CFRU and DPE are forks from Cfru/Dev Builds
 
@@ -25,6 +26,8 @@ https://github.com/Shiny-Miner/CFRU-expansion
 ## Ucdep
 
 Ultra9
+
+Depa, Backsprite Expander HMA Script
 
 ## CFRU/DPE Expansions
 
