@@ -7201,12 +7201,12 @@ DefaultHash = '''B15440D8'''
 #################################
 [[GotoShortcut]]
 Name = '''Pokemon'''
-Image = '''graphics.pokemon.sprites.front/29/sprite/'''
+Image = '''graphics.pokemon.sprites.front/1352/sprite/'''
 Destination = '''data.pokemon.stats/1'''
 
 [[GotoShortcut]]
 Name = '''Trainers'''
-Image = '''graphics.trainers.sprites.front/19/sprite/'''
+Image = '''graphics.trainers.sprites.front/106/sprite/'''
 Destination = '''data.trainers.stats'''
 
 [[GotoShortcut]]
@@ -7216,7 +7216,7 @@ Destination = '''data.pokemon.moves.stats.battle'''
 
 [[GotoShortcut]]
 Name = '''Items'''
-Image = '''graphics.items.sprites/13/sprite/'''
+Image = '''graphics.items.sprites/7/sprite/'''
 Destination = '''data.items.stats'''
 
 [[GotoShortcut]]
