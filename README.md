@@ -4,6 +4,9 @@ Ucdep is easy to patch and start hacking, so what are you waiting?
 
 CFRU and DPE are forks from Cfru/Dev Builds
 
+
+**If you found any bugs please report them through discord! My account: ultrabruh9**
+
 ## UCDEP adds:
 
 Pokémon up to Gen 9 Pokemon(LZA Megas are not included, you need to add them yourself)
@@ -18,13 +21,13 @@ Fairy and Stellar Types
 
 ## Useful Links:
 
-### Hex Maniac Advance(HMA)
-https://github.com/haven1433/HexManiacAdvance
+### [Hex Maniac Advance(HMA)]
+(https://github.com/haven1433/HexManiacAdvance)
 
-### DPE Expansion:
-https://github.com/Shiny-Miner/Dynamic-Pokemon-Expansion-Gen-9
-### CFRU Expansion:
-https://github.com/Shiny-Miner/CFRU-expansion
+### [DPE Expansion]
+(https://github.com/Shiny-Miner/Dynamic-Pokemon-Expansion-Gen-9)
+### [CFRU Expansion]
+(https://github.com/Shiny-Miner/CFRU-expansion)
 
 # Credits:
 
