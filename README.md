@@ -1,16 +1,21 @@
 # Ultra-s-CFRU-n-DPE-Expansions-Patch
-A rombase for Pokémon Fire red based on Cfru and Dpe Expansions made by Shiny Miner and his Team
+A rombase for Pokémon Fire red based on Cfru and Dpe Expansions a fork from Cfru/Dpe made by Shiny Miner and his Team
+
+## DPE Expansion:
+https://github.com/Shiny-Miner/Dynamic-Pokemon-Expansion-Gen-9
+## CFRU Expansion:
+https://github.com/Shiny-Miner/CFRU-expansion
 
 # Credits:
 
-Ultra9
+## Ultra9
 
-Shiny Miner/Hunter
+## Shiny Miner/Hunter
 
-ansh860, (Fixes, Tm case icons, continue screen icons, more)
+## ansh860, (Fixes, Tm case icons, continue screen icons, more)
 
-Zake, (Battle backgrounds help and Following mon code)
+## Zake, (Battle backgrounds help and Following mon code)
 
-grilokapu (item expansion, gen 9 moves+abilities, nuzlocke fainting, Terastallization, more)
+## grilokapu (item expansion, gen 9 moves+abilities, nuzlocke fainting, Terastallization, more)
 
-1RWT16KU1D (Terastallization)
+## 1RWT16KU1D (Terastallization)
