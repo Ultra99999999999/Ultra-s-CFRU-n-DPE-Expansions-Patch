@@ -4,6 +4,8 @@ Ucdep is easy to patch and start hacking, so what are you waiting?
 
 CFRU and DPE are forks from Cfru/Dev Builds
 
+**WARNING!!!**
+Ucdep's still a beta, so Bugs are expected!
 
 **If you found any bugs please report them through discord! My account: ultrabruh9**
 
