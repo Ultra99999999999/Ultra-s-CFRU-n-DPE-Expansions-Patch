@@ -46,7 +46,7 @@ Ucdep's still a beta, so Bugs are expected!
 - Depa, Trainers Backsprite Expander HMA Script
 
 ## CFRU/DPE Expansions
-> **[Forked from CFRU/DPE Expansions Page]**(https://github.com/Shiny-Miner/CFRU-expansion/tree/Experiments)
+> **[Forked from CFRU/DPE Expansions Page](https://github.com/Shiny-Miner/CFRU-expansion/tree/Experiments)**
 
 - Shiny Miner/Hunter
 
@@ -63,7 +63,7 @@ Axel Loquendo DPE(?)
 The-Code-Mining-Hub
 
 ## Normal CFRU/DPE
-> **[(forked from the Pokecommunity Post)]**(https://www.pokecommunity.com/threads/complete-firered-upgrade.425447/)
+> **[(forked from the Pokecommunity Post)](https://www.pokecommunity.com/threads/complete-firered-upgrade.425447/)**
 
 Primary Developers:
 
